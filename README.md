@@ -18,7 +18,16 @@ Frountend for *Mini Model Studio*. Build on Nextjs
 
   - Create & Manage Chats
 
-
-
+# Setup
+  - Install dependencies
+    ```
+    npm install
+    ```
+  - Start the frontend
+    ```
+    npm run build
+    npm start
+    ```
+     
 
 
